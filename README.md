@@ -1,5 +1,5 @@
 # affordance-2021
-This repository contains a demo of the proposed affordance network. The pretrained network is provided for easy usage. The network was trained using foregrounds of the object. Accordingly, input images are expected to contain the object in the foreground.
+This repository contains a demo of the proposed affordance network. The pretrained network is provided for easy usage. The network was trained using the foreground of the object. Accordingly, input images are expected to contain the object in the foreground.
 
 ## Table of contents
 * [Python project](#python-project)
